@@ -1,6 +1,5 @@
 import bodyImage from '../assets/images/human_body1.png';
 import ocean1 from '../assets/images/ocean1.jpg';
-import ocean2 from '../assets/images/ocean2.jpg';
 import ocean3 from '../assets/images/ocean3.jpg';
 import ocean4 from '../assets/images/ocean4.png';
 import ocean5 from '../assets/images/ocean5.jpg';
